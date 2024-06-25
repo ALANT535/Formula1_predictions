@@ -1,0 +1,1 @@
+An attempt to create an ML model that will predict the finishing positions of drivers based on their lap times in free practice sessions and qualifying sessions. Should help strengthen core Tensorflow / PyTorch.
